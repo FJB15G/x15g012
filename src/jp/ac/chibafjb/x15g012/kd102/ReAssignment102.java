@@ -3,7 +3,7 @@ package jp.ac.chibafjb.x15g012.kd102;
 public class ReAssignment102 {
 
 	public static void main(String[] args) {
-	//画面に名前を表示
+		
 	System.out.println("1 船橋太郎");
 	System.out.println("2 船橋太郎");
 	System.out.println("3 船橋太郎");
