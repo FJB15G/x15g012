@@ -3,7 +3,9 @@ package jp.ac.chibafjb.x15g012.kdT03;
 public class ReAssignmentT03 {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		
+		for(int i=55; i<=70; i=i+5)
+			System.out.println(i);
 
 	}
 
